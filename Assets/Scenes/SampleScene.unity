@@ -675,7 +675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dimensions: {x: 64, y: 64, z: 64}
-  capacity: 8
+  capacity: 4
   octantGeneratorPrefab: {fileID: 6063229125954641909, guid: 6baa958e3b5e90a47bb9432a718bd9c9, type: 3}
   pointGeneratorPrefab: {fileID: 7630956858228725016, guid: 4f0646d5dd79e714b8c4450a4dd21705, type: 3}
 --- !u!4 &264736424
